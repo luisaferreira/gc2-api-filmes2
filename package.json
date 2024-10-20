@@ -1,0 +1,12 @@
+{
+  "name": "gc2-filme-api2",
+  "version": "1.0.0",
+  "description": "Uma API de filmes utilizada na disciplina de Gestão de configuração 2.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["api", "filmes", "gc2"],
+  "author": "Luís Eduardo",
+  "license": "MIT"
+}
